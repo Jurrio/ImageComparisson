@@ -1,5 +1,5 @@
 # ImageComparisson
 
-Console app for compare images
+Console app to compare images
 
 !!!Sample!!!
