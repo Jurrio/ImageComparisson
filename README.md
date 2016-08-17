@@ -1,4 +1,5 @@
 # ImageComparisson
 
-Console app for compare images and select differents
+Console app for compare images
+
 !!!Sample!!!
